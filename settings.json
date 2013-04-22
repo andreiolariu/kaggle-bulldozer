@@ -1,0 +1,7 @@
+{
+  "data_path": "data/",
+  "submission_path": "submission/",
+  "train": "TrainAndValid.csv",
+  "test": "Valid.csv",
+  "machines": "Machine_Appendix.csv"
+}
